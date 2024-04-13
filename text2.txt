@@ -1,2 +1,2 @@
 Day la test 2 ne
-thuoc text 2
+thuoc text 2 va main
