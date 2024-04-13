@@ -1,2 +1,6 @@
 Day la file testone.txt 
+<<<<<<< HEAD
 thuoc brand :textone ma thoi
+=======
+thuoc branch: textone va main
+>>>>>>> main
